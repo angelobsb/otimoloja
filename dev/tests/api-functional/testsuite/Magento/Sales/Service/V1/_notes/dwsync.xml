@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CreditmemoAddCommentTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CreditmemoCancelTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CreditmemoCommentsListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CreditMemoCreateRefundTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CreditmemoCreateTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CreditmemoEmailTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CreditmemoGetTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CreditmemoListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceAddCommentTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceCaptureTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceCommentsListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceCreateTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceEmailTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceGetTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="InvoiceVoidTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderAddressUpdateTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderCancelTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderCommentsListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderCreateTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderEmailTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderGetStatusTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderGetTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderHoldTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderInvoiceCreateTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderItemGetListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderItemGetTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderStatusHistoryAddTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="OrderUnHoldTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentAddCommentTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentAddTrackTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentCommentsListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentCreateTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentEmailTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentGetTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentLabelGetTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentListTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipmentRemoveTrackTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShipOrderTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="TransactionTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+</dwsync>

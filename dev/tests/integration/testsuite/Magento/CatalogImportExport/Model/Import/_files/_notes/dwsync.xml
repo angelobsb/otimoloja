@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="import_media.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="import_new_categories_custom_separator.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="import_new_categories_default_separator.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="media_import_image.php" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_duplicate_category.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="media_import_image_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_check_duplicated_names.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_multiple_stores.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_check_duplicated_url_keys.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_check_valid_url_keys.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_check_valid_url_keys_multiple_stores.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_import.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_import_invalid_attribute_set.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_import_with_datetime.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_import_with_product_links.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_import_with_qty.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_import_with_use_config_settings.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225780400000000" Dst="2" />
+<file name="products_to_import_with_valid_url_keys.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225781000000000" Dst="2" />
+<file name="products_with_invalid_multiselect_values.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225781000000000" Dst="2" />
+<file name="product_to_import_invalid_weight.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225781000000000" Dst="2" />
+<file name="product_with_custom_options.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225781000000000" Dst="2" />
+<file name="product_with_custom_options_new.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225781000000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CaseCaptchaIsRequiredAfterFailedLoginAttemptsTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225777400000000" Dst="2" />
+<file name="CaseBackendLoginActionWithInvalidCaptchaReturnsErrorTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225777400000000" Dst="2" />
+<file name="CaseCheckUserForgotPasswordBackendWhenCaptchaFailedTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225777400000000" Dst="2" />
+<file name="CaseCheckUnsuccessfulMessageWhenCaptchaFailedTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225777400000000" Dst="2" />
+</dwsync>

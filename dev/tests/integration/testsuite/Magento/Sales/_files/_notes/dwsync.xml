@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="address.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="address_data.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="creditmemo.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="assign_status_to_state.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="creditmemo_for_get.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="default_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="creditmemo_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="creditmemo_for_get_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="creditmemo_with_list_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="creditmemo_with_list.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="invoice.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_fixture_store.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="invoice_fixture_store_order.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_paid_with_payflowpro.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="invoice_payflowpro.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_alphanumeric_id.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="invoice_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_new.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_info.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_new_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_shipping.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_pending_payment.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_shipping_address_same_as_billing.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_shipping_address_different_to_billing.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="quote.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="order_with_customer.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="quote_with_bundle.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="quote_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="quote_with_customer.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="quote_with_bundle_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="report_bestsellers.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="quote_with_customer_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="report_refunded.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="report_invoiced.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="shipment.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="report_shipping.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="transactions.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="shipment_rollback.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="two_orders_for_one_of_two_customers.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="transactions_detailed.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+<file name="two_orders_for_two_diff_customers.php" server="ftp.otimo.info" local="131206307840000000" remote="131225803200000000" Dst="2" />
+</dwsync>

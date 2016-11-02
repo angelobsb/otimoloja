@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="circular-dependencies.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225805000000000" Dst="2" />
+<file name="dependencies.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225805000000000" Dst="2" />
+<file name="framework-dependencies.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225805000000000" Dst="2" />
+<file name="without-circular-dependencies.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225805000000000" Dst="2" />
+<file name="without-dependencies.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225805000000000" Dst="2" />
+<file name="without-framework-dependencies.csv" server="ftp.otimo.info" local="131206307840000000" remote="131225805000000000" Dst="2" />
+</dwsync>

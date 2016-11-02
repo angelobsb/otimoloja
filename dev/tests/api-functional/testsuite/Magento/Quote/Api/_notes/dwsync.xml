@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BillingAddressManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CartItemRepositoryTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CartRepositoryTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CartManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CartTotalRepositoryTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="CouponManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestBillingAddressManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestCartItemRepositoryTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestCartManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestCartRepositoryTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestCartTotalRepositoryTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestCouponManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestPaymentMethodManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="GuestShippingMethodManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="PaymentMethodManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+<file name="ShippingMethodManagementTest.php" server="ftp.otimo.info" local="131206307840000000" remote="131225740800000000" Dst="2" />
+</dwsync>
